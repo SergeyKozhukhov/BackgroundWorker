@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BackgroundWorker</string>
+    <string name="progress_template">%d %%</string>
+    <string name="process_id">Process id = %d</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+</resources>
